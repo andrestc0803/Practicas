@@ -1,0 +1,11 @@
+header {
+    
+    background-color: black;
+    color: white
+}
+
+article header {
+    
+    background-color:blueviolet;
+    color: white
+}
